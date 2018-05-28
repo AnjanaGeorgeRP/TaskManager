@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="add">Add Task</string>
+</resources>
